@@ -1,7 +1,7 @@
 {
   "name": "maya-script-editor-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Autodesk Maya ScriptEditor Syntax Theme",
   "keywords": [
     "syntax",
@@ -9,7 +9,7 @@
     "maya",
     "mel"
   ],
-  "repository": "https://github.com/teionn/maya-script-editor-syntax/tree/master",
+  "repository": "https://github.com/teionn/maya-script-editor-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
