@@ -1,7 +1,7 @@
 {
   "name": "maya-script-editor-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Autodesk Maya ScriptEditor Syntax Theme",
   "keywords": [
     "syntax",
