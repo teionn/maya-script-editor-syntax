@@ -1,0 +1,1 @@
+Autodesk Maya ScriptEditor Syntax Theme
